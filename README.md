@@ -28,6 +28,10 @@ I created the solution using `.Net Standard`, `.Net Core`, `nUnit` and `Moq` fra
 
 Feature 1 - Moving Your Token of Snakes and Ladders Kata has basic requirements and do not require a complex implementation of objects. I have followed SOLID architecture priniciples, created Interfaces and Classes that has single purpose, Open for extension in future, and implemented Interfaces so that the individual components can be tested easily.
 
+### Challenges
+
+Use of GitHub. I use Microsoft Azure Devops in day to day life and using GitHub is a new experience and took a bit time to setup and understand the process.
+
 ## The Future
 
 I foresee that the following interfaces and classes will be expanded in future based on the requirements
