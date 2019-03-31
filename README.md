@@ -43,4 +43,4 @@ The project requires `Visual Studio 2017` to view the code and the `.NET Core SD
 
 Tests can be run from Visual Studio `Test Explorer` area. Please see the below screenshot of all the tests run 
 
-![Project Tests](./blob/master/snakes-and-ladders-kata-feature1-tests.png)
+![Project Tests](./snakes-and-ladders-kata-feature1-tests.png)
