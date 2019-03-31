@@ -21,7 +21,7 @@ Game is started when player places the token on Square 1 and finishes when playe
 
 ## Design Decisions
 
-I created the solution using `.Net Core`, `nUnit` and `Moq` frameworks. I was familiar with Microsoft Tests and used them before for various projects, however, I used nUnit tests this time as we can create the nUnit Test project with .Net Core framework.
+I created the solution using `.Net Standard`, `.Net Core`, `nUnit` and `Moq` frameworks. I was familiar with Microsoft Tests and used them before for various projects, however, I used nUnit tests this time as we can create the nUnit Test project with .Net Core framework.
 
 Feature 1 - Moving Your Token of Snakes and Ladders Kata has basic requirements and do not require a complex implementation of objects. I have followed SOLID architecture priniciples, created Interfaces and Classes that has single purpose, Open for extension in future, and implemented Interfaces so that the individual components can be tested easily.
 
@@ -34,3 +34,13 @@ I foresee that the following interfaces and classes will be expanded in future b
 4. Game - The game itself can be evovled by providing multi player mode, single player mode, order of plays etc
 
 ## Installation
+
+### Prerequisites
+
+The project requires `Visual Studio 2017` to view the code and the `.NET Core SDK` to be installed on your computer. This also requires `nUnit` and `Moq` NuGet packages to be restored to the solution
+
+## Tests
+
+Tests can be run from Visual Studio `Test Explorer` area. Please see the below screenshot of all the tests run 
+
+![Project Tests](./snakes-and-ladders-kata-feature1-tests.png)
