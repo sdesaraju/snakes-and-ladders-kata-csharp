@@ -1,0 +1,9 @@
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netstandard2.0\SnakesAndLadders.deps.json
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netstandard2.0\SnakesAndLadders.dll
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\bin\Debug\netstandard2.0\SnakesAndLadders.pdb
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.AssemblyInfoInputs.cache
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.AssemblyInfo.cs
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.dll
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.pdb
+C:\Users\sdesaraju\source\repos\SnakesAndLadders\SnakesAndLadders\obj\Debug\netstandard2.0\SnakesAndLadders.csprojAssemblyReference.cache
