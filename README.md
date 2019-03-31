@@ -18,6 +18,9 @@ Game is started when player places the token on Square 1 and finishes when playe
 2. We are using only 1 die, and it has values from 1 to 6 (both inclusive)
 3. Only 1 player is playing the game
 4. When the game is started, player's token is placed on Sqaure 1
+5. No UI is required for Feature 1. 
+
+**Note** Tests are done using the nUnit test cases written
 
 ## Design Decisions
 
